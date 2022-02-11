@@ -358,7 +358,7 @@ section{
     .cycle__types{
     
         position: absolute;
-        bottom: 0rem;
+        bottom: -3rem;
         left: 50%;
         transform: translateX(-50%);
         justify-content: center;
